@@ -1,1 +1,1 @@
-# Learn Keras with Tensor as backend
+# Learn Keras with Tensorflow as backend
